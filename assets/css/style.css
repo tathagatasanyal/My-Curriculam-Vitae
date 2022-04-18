@@ -724,6 +724,10 @@ section {
   background-image: url('../img/Projects/simple\ login\ page.png');
   background-repeat: no-repeat
 }
+.pr-4{
+  background-image: url('../img/Projects/Blue\ Chic.png');
+  background-repeat: no-repeat
+}
 .card h2{
   padding: 10px;
 }
